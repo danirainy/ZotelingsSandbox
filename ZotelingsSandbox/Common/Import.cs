@@ -1,0 +1,13 @@
+﻿global using GlobalEnums;
+global using HKMirror.Reflection;
+global using HutongGames.PlayMaker;
+global using HutongGames.PlayMaker.Actions;
+global using MagicUI.Core;
+global using MagicUI.Elements;
+global using Modding;
+global using MonoMod.ModInterop;
+global using MonoMod.RuntimeDetour;
+global using Satchel;
+global using System.Reflection;
+global using UnityEngine;
+global using ZotelingsSandbox.Common;
